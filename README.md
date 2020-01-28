@@ -4,8 +4,7 @@ this dashboard provides valuable information for people to search for healthy re
 
 # Preview
 
-### Demo Site: [[Here]](http://doc.gold.ac.uk/~stsai001/dashboard/healthy_cooking_and_nutritious_dashboard.html
-)
+### Demo Site: http://doc.gold.ac.uk/~stsai001/dashboard/healthy_cooking_and_nutritious_dashboard.html
 
 
 ### Built With
